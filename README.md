@@ -1,2 +1,4 @@
-# 1030510071_BS435_WebProgramlama
-WebProgramlama
+Öğrenci Numarası: 1030510071
+Öğrenci Adı: Semih Çalışkan
+Ders Adı: BS435 Web Programlama
+
